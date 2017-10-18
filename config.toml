@@ -1,0 +1,262 @@
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = "https://www.isa-nsit.in/"
+languageCode = "en-US"
+title = "ISA NSITD"
+
+# Metadata
+[params]
+  author = "ISA NSIT Web Team"
+  description = "The official website of ISA NSIT, Delhi Student Section"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/banner-mask.jpg"
+  title = "The  <br /> International Society of Automation <br /> NSIT Section"
+  description = "Bridging the dream gap for Instrumentation and Automation"
+
+# Navigation section
+[params.nav]
+  mission = "Our Mission"
+  services = "Our Action"
+  team = "The Team"
+  contact = "Get In Touch"
+  # Include logo instead if HOME:
+  # logo = "path/to/logo"
+
+# Mission section
+[params.mission]
+  enable = true
+
+  [params.mission.images]
+    enable = true
+
+    [[params.mission.images.list]]
+      img = "images/img_3.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_2.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_1.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_4.jpg"
+
+  [[params.mission.item]]
+    weight = 1
+    name = "marketing"
+    title = "Enhance"
+    subtitle = "The current syllabus is far away from what industry uses. We are here to prepare you for the world outside"
+    description = ""
+
+  [[params.mission.item]]
+    weight = 2
+    name = "analysis"
+    title = "Enrich"
+    subtitle = "When did stuying books ensure success in life ? We create the perfect amalgamation of what is required out of an engineer in the 21st century"
+    description = ""
+
+  [[params.mission.item]]
+    weight = 3
+    name = "strategy"
+    title = "Experience"
+    subtitle = "Enough talking. Getting hands dirty is the best way learn. Sure it'll cause mess, but are we afraid ?"
+    description = ""
+
+# Services section
+[params.services]
+  enable = true
+  video = false
+  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  title = "Our Action"
+  description = "We have created these programs to convert Our Mission to reality. Each of these touches upon one aspect of learning for your dream"
+
+  [[params.services.item]]
+    icon = "icon-present" # change
+    title = "CS Essentials"
+    description = ""
+
+  [[params.services.item]]
+    icon = "icon-paper-plane"
+    title = "Study Higher"
+    description = ""
+
+  [[params.services.item]]
+    icon = "icon-pencil"
+    title = "Research Gate"
+    description = ""
+
+  [[params.services.item]]
+    icon = "icon-eye" # change
+    title = "Industry Connect"
+    description = ""
+
+# Work section
+[params.work]
+  enable = false
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_1.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_4.jpg"
+
+# Team section
+[params.team]
+  enable = true
+  title = "Meet The Team"
+  description = "Here is the committed team who is the mind behind Our Mission and hands behind Our Action"
+
+  [[params.team.item]]
+    name = "Adhiraj Singh Yadav"
+    position = "IndustryConnect Leader"
+    description = ""
+    img = "images/person1.jpg"
+    facebook = "#"
+
+
+  [[params.team.item]]
+    name = "Ashish Ranjan"
+    position = "<>"
+    description = ""
+    img = "images/person2.jpg"
+    facebook = "#"
+
+  [[params.team.item]]
+    name = "Bhavya Rachhoya"
+    position = "<>"
+    description = ""
+    img = "images/person3.jpg"
+    facebook = "#"
+
+
+  [[params.team.item]]
+      name = "Daksh Minocha"
+      position = "Treasurer"
+      description = ""
+      img = "images/person1.jpg"
+      facebook = "#"
+
+
+  [[params.team.item]]
+      name = "Divyanshu Sharma"
+      position = "President"
+      description = ""
+      img = "images/person1.jpg"
+      facebook = "#"
+
+  [[params.team.item]]
+      name = "Jai Sudan"
+      position = "ResearchGate Leader"
+      description = ""
+      img = "images/person1.jpg"
+      facebook = "#"
+
+  [[params.team.item]]
+    name = "Jasmer Singh"
+    position = "CS Essentials Leader"
+    description = ""
+    img = "images/person1.jpg"
+    facebook = "#"
+
+
+  [[params.team.item]]
+    name = "Jayank Mayukh"
+    position = "CS Essentials Leader"
+    description = ""
+    img = "images/person2.jpg"
+    facebook = "#"
+
+  [[params.team.item]]
+      name = "K Abhay Prithvi"
+      position = "StudyHigher Leader"
+      description = ""
+      img = "images/person1.jpg"
+      facebook = "#"
+
+  [[params.team.item]]
+      name = "Mayank Deewan"
+      position = "Outreach Lead"
+      description = ""
+      img = "images/person1.jpg"
+      facebook = "#"
+
+
+  [[params.team.item]]
+      name = "Tivish Allabadi"
+      position = "ResearchGate Leader"
+      description = ""
+      img = "images/person1.jpg"
+      facebook = "#"
+
+
+  [[params.team.item]]
+    name = "Umang Singhal"
+    position = "<>"
+    description = ""
+    img = "images/person1.jpg"
+    facebook = "#"
+
+
+  [[params.team.item]]
+    name = "Vipul Yadav"
+    position = "<>"
+    description = ""
+    img = "images/person2.jpg"
+    facebook = "#"
+
+  [[params.team.item]]
+    name = "Vishwatej Rao"
+    position = "Vice President"
+    description = ""
+    img = "images/person3.jpg"
+    facebook = "#"
+
+
+
+# Contact section
+[params.contact]
+  enable = true
+  title = "Get In Touch"
+  message = "Get in touch by either messaging our Facebook page or <br / > tapping anyone of us when you see us around the campus. <br /> <br /> <a href='https://www.facebook.com/isansit/' class='btn btn-primary btn-outline'>Facebook</a>"
+
+# Footer section
+# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
+[params.footer]
+  enable = true
+  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> <br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  github = "https://github.com/isa-nsit"
+  facebook = "https://www.facebook.com/isansit/"
+  linkedin = "https://in.linkedin.com/company/isa"
