@@ -2,10 +2,10 @@
   <div class="container">
     <div class="row">
       {{ with .Site.Params.footer }}
-      <div class="col-md-6">
+      <div class="col-md-8">
 	{{ .note | markdownify }}
       </div>
-      <div class="col-md-6">
+      <div>
 	<ul class="fh5co-social">
 	  {{ if isset . "github" }}
 	  <li><a href="{{ .github }}"><i class="icon-github"></i></a></li>

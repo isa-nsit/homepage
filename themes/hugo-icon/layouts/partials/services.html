@@ -8,9 +8,9 @@
       <h2>{{ .title }}</h2>
       <p>{{ .description | markdownify }}</p>
     </div>
-    
+
     {{ range .item }}
-    <div class="col-md-4">
+    <div class="col-md-6">
       <div class="service">
 	<div class="icon"><i class={{ .icon }}></i></div>
 	<h3>{{ .title }}</h3>
@@ -18,11 +18,11 @@
       </div>
     </div>
     {{ end }}
-    
+
     <div class="col-md-12 text-center">
-      <p><a href="#" class="btn btn-primary btn-outline">Get In Touch</a></p>
+      <p><a target="_blank" href="https://goo.gl/forms/8B3Exn3nZKEeoCn62" class="btn btn-primary btn-outline">Interested ? <br /> Sign up for our Alpha list</a></p>
     </div>
-    
+
   </div>
   {{ end }}
 </div> <!-- END fh5co-services -->

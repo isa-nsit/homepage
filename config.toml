@@ -32,13 +32,13 @@ title = "ISA NSITD"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "images/mission_1.jpg"
     [[params.mission.images.list]]
-      img = "images/img_2.jpg"
+      img = "images/mission_2.jpg"
     [[params.mission.images.list]]
-      img = "images/img_1.jpg"
+      img = "images/mission_3.jpg"
     [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+      img = "images/mission_4.jpg"
 
   [[params.mission.item]]
     weight = 1
@@ -70,7 +70,7 @@ title = "ISA NSITD"
   description = "We have created these programs to convert Our Mission to reality. Each of these touches upon one aspect of learning for your dream"
 
   [[params.services.item]]
-    icon = "icon-present" # change
+    icon = "icon-screen-desktop" # change
     title = "CS Essentials"
     description = ""
 
@@ -85,7 +85,7 @@ title = "ISA NSITD"
     description = ""
 
   [[params.services.item]]
-    icon = "icon-eye" # change
+    icon = "icon-people" # change
     title = "Industry Connect"
     description = ""
 
@@ -137,28 +137,28 @@ title = "ISA NSITD"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "Here is the committed team who is the mind behind Our Mission and hands behind Our Action"
+  description = "Here is the committed team <br /> The minds behind our mission and <br /> The hands behind our action"
 
   [[params.team.item]]
-    name = "Adhiraj Singh Yadav"
+    name = "Adhiraj Singh"
     position = "IndustryConnect Leader"
     description = ""
-    img = "images/person1.jpg"
+    img = ""
     facebook = "#"
 
 
   [[params.team.item]]
     name = "Ashish Ranjan"
-    position = "<>"
+    position = "ExecCouncil Member"
     description = ""
-    img = "images/person2.jpg"
+    img = ""
     facebook = "#"
 
   [[params.team.item]]
     name = "Bhavya Rachhoya"
-    position = "<>"
+    position = "ExecCouncil Member"
     description = ""
-    img = "images/person3.jpg"
+    img = ""
     facebook = "#"
 
 
@@ -166,51 +166,43 @@ title = "ISA NSITD"
       name = "Daksh Minocha"
       position = "Treasurer"
       description = ""
-      img = "images/person1.jpg"
-      facebook = "#"
-
-
-  [[params.team.item]]
-      name = "Divyanshu Sharma"
-      position = "President"
-      description = ""
-      img = "images/person1.jpg"
+      img = ""
       facebook = "#"
 
   [[params.team.item]]
       name = "Jai Sudan"
       position = "ResearchGate Leader"
       description = ""
-      img = "images/person1.jpg"
+      img = ""
       facebook = "#"
 
   [[params.team.item]]
     name = "Jasmer Singh"
     position = "CS Essentials Leader"
     description = ""
-    img = "images/person1.jpg"
+    img = ""
     facebook = "#"
 
 
   [[params.team.item]]
     name = "Jayank Mayukh"
-    position = "CS Essentials Leader"
+    position = "ExecCouncil Member"
     description = ""
-    img = "images/person2.jpg"
+    img = ""
     facebook = "#"
 
   [[params.team.item]]
       name = "K Abhay Prithvi"
       position = "StudyHigher Leader"
       description = ""
-      img = "images/person1.jpg"
+      img = ""
       facebook = "#"
 
   [[params.team.item]]
       name = "Mayank Deewan"
       position = "Outreach Lead"
       description = ""
-      img = "images/person1.jpg"
+      img = ""
       facebook = "#"
 
 
@@ -218,31 +210,38 @@ title = "ISA NSITD"
       name = "Tivish Allabadi"
       position = "ResearchGate Leader"
       description = ""
-      img = "images/person1.jpg"
+      img = ""
       facebook = "#"
 
 
   [[params.team.item]]
     name = "Umang Singhal"
-    position = "<>"
+    position = "ExecCouncil Member"
     description = ""
-    img = "images/person1.jpg"
+    img = ""
     facebook = "#"
 
 
   [[params.team.item]]
     name = "Vipul Yadav"
-    position = "<>"
+    position = "ExecCouncil Member"
     description = ""
-    img = "images/person2.jpg"
+    img = ""
     facebook = "#"
 
   [[params.team.item]]
     name = "Vishwatej Rao"
     position = "Vice President"
     description = ""
-    img = "images/person3.jpg"
+    img = ""
     facebook = "#"
+
+  [[params.team.item]]
+      name = "Divyanshu Sharma"
+      position = "President"
+      description = ""
+      img = ""
+      facebook = "#"
 
 
 
@@ -256,7 +255,7 @@ title = "ISA NSITD"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> <br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  note = "<p><small>Created from a Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a> of a theme designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> <br /> 2016 Free HTML5 Template. All Rights Reserved.</small></p>"
   github = "https://github.com/isa-nsit"
   facebook = "https://www.facebook.com/isansit/"
   linkedin = "https://in.linkedin.com/company/isa"
