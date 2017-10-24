@@ -2,7 +2,7 @@
 # theme = "hugo-icon"
 baseURL = "https://isa-nsit.github.io/homepage/"
 languageCode = "en-US"
-title = "ISA NSITD"
+title = "ISA NSIT"
 
 # Metadata
 [params]
@@ -12,7 +12,7 @@ title = "ISA NSITD"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/banner-mask.jpg"
-  title = "The  <br /> International Society of Automation <br /> NSIT Section"
+  title = "The <br /> International Society of Automation <br /> NSIT Section"
   description = "Bridging the dream gap for Instrumentation and Automation"
 
 # Navigation section
@@ -144,7 +144,8 @@ title = "ISA NSITD"
     position = "IndustryConnect Leader"
     description = ""
     img = ""
-    facebook = "#"
+    facebook = "https://www.facebook.com/adhiraj.yadav.5"
+    linkedin = "https://www.linkedin.com/in/adhiraj-singh-yadav-02b065103/"
 
 
   [[params.team.item]]
@@ -152,14 +153,16 @@ title = "ISA NSITD"
     position = "ExecCouncil Member"
     description = ""
     img = ""
-    facebook = "#"
+    facebook = "https://www.facebook.com/profile.php?id=100000063478704"
+    linkedin = ""
 
   [[params.team.item]]
     name = "Bhavya Rachhoya"
     position = "ExecCouncil Member"
     description = ""
     img = ""
-    facebook = "#"
+    facebook = "https://www.facebook.com/bhavya.rachhoya"
+    linkedin = "https://www.linkedin.com/in/bhavya-rachhoya-96760b138/"
 
 
   [[params.team.item]]
@@ -167,21 +170,24 @@ title = "ISA NSITD"
       position = "Treasurer"
       description = ""
       img = ""
-      facebook = "#"
+      facebook = "https://www.facebook.com/daksh.minocha"
+      linkedin = ""
 
   [[params.team.item]]
       name = "Jai Sudan"
       position = "ResearchGate Leader"
       description = ""
       img = ""
-      facebook = "#"
+      facebook = "https://www.facebook.com/jai.sudan"
+      linkedin = "https://www.linkedin.com/in/jai-sudan-9b0060131/"
 
   [[params.team.item]]
     name = "Jasmer Singh"
     position = "CS Essentials Leader"
     description = ""
     img = ""
-    facebook = "#"
+    facebook = "https://www.facebook.com/jasmer.gumber"
+    linkedin = ""
 
 
   [[params.team.item]]
@@ -189,21 +195,24 @@ title = "ISA NSITD"
     position = "ExecCouncil Member"
     description = ""
     img = ""
-    facebook = "#"
+    facebook = "https://www.facebook.com/jayankmayukh"
+    linkedin = "https://www.linkedin.com/in/jayank-mayukh-19344b129/"
 
   [[params.team.item]]
       name = "K Abhay Prithvi"
       position = "StudyHigher Leader"
       description = ""
       img = ""
-      facebook = "#"
+      facebook = "https://www.facebook.com/abhayprithvi97"
+      linkedin = ""
 
   [[params.team.item]]
       name = "Mayank Deewan"
       position = "Outreach Lead"
       description = ""
       img = ""
-      facebook = "#"
+      facebook = "https://www.facebook.com/mayank.deewan"
+      linkedin = ""
 
 
   [[params.team.item]]
@@ -211,7 +220,8 @@ title = "ISA NSITD"
       position = "ResearchGate Leader"
       description = ""
       img = ""
-      facebook = "#"
+      facebook = "https://www.facebook.com/tivish.allabadi"
+      linkedin = "https://www.linkedin.com/in/tivish-allabadi-1440b4112/"
 
 
   [[params.team.item]]
@@ -219,7 +229,8 @@ title = "ISA NSITD"
     position = "ExecCouncil Member"
     description = ""
     img = ""
-    facebook = "#"
+    facebook = "https://www.facebook.com/umang.singhal.77"
+    linkedin = "https://www.linkedin.com/in/umang-singhal-2676a713b/"
 
 
   [[params.team.item]]
@@ -227,21 +238,24 @@ title = "ISA NSITD"
     position = "ExecCouncil Member"
     description = ""
     img = ""
-    facebook = "#"
+    facebook = "https://www.facebook.com/vipul.yadav.946179"
+    linkedin = ""
 
   [[params.team.item]]
     name = "Vishwatej Rao"
     position = "Vice President"
     description = ""
     img = ""
-    facebook = "#"
+    facebook = "https://www.facebook.com/vishura0"
+    linkedin = "https://www.linkedin.com/in/vishwatej-rao-a69435141/"
 
   [[params.team.item]]
       name = "Divyanshu Sharma"
       position = "President"
       description = ""
       img = ""
-      facebook = "#"
+      facebook = "https://www.facebook.com/divyanshuSharma97"
+      linkedin = "https://www.linkedin.com/in/divyanshu-sharma-50256b107/"
 
 
 
