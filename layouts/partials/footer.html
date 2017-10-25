@@ -2,9 +2,7 @@
   <div class="container">
     <div class="row">
       {{ with .Site.Params.footer }}
-      <div class="col-md-8">
-	{{ .note | markdownify }}
-      </div>
+      
       <div>
 	<ul class="fh5co-social">
 	  {{ if isset . "github" }}
@@ -26,6 +24,9 @@
 	  <li><a href="{{ .instagram }}"><i class="icon-instagram"></i></a></li>
 	  {{ end }}
 	</ul>
+      </div>
+         <div class="col-md-8">
+	 <font size = "0.1">Created from a Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a> of a theme designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> <br /> 2016 Free HTML5 Template. All Rights Reserved.</font> 
       </div>
       {{ end }}
     </div>
