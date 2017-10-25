@@ -269,7 +269,7 @@ title = "ISA NSIT"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><font size = "0.1">Created from a Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a> of a theme designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> <br /> 2016 Free HTML5 Template. All Rights Reserved.</font></p>"
+  note = "<p><small>Created from a Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a> of a theme designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> <br /> 2016 Free HTML5 Template. All Rights Reserved.</small></p>"
   github = "https://github.com/isa-nsit"
   facebook = "https://www.facebook.com/isansit/"
   linkedin = "https://in.linkedin.com/company/isa"
