@@ -141,11 +141,37 @@ title = "ISA NSIT"
 
   [[params.team.item]]
     name = "Adhiraj Singh"
-    position = "IndustryConnect Leader"
+    position = "Head of Outreach"
     description = ""
     img = ""
     facebook = "https://www.facebook.com/adhiraj.yadav.5"
     linkedin = "https://www.linkedin.com/in/adhiraj-singh-yadav-02b065103/"
+
+
+  [[params.team.item]]
+      name = "Ankush Sharma"
+      position = "Web Developer"
+      description = ""
+      img = ""
+      facebook = "https://www.facebook.com/profile.php?id=100010861564717"
+      linkedin = ""
+
+  [[params.team.item]]
+      name = "Aman Chowdhary"
+      position = "Web Developer"
+      description = ""
+      img = ""
+      facebook = "https://www.facebook.com/profile.php?id=100002422184630"
+      linkedin = "https://www.linkedin.com/in/aman-chowdhary-539000159/"
+
+  [[params.team.item]]
+      name = "Ashish Chauhan"
+      position = "Web Developer"
+      description = ""
+      img = ""
+      facebook = "https://www.facebook.com/profile.php?id=100001836816693"
+      linkedin = "https://www.linkedin.com/in/aashish-chauhan-45a081b9/"
+
 
 
   [[params.team.item]]
@@ -173,81 +199,6 @@ title = "ISA NSIT"
       facebook = "https://www.facebook.com/daksh.minocha"
       linkedin = ""
 
-  [[params.team.item]]
-      name = "Jai Sudan"
-      position = "ResearchGate Leader"
-      description = ""
-      img = ""
-      facebook = "https://www.facebook.com/jai.sudan"
-      linkedin = "https://www.linkedin.com/in/jai-sudan-9b0060131/"
-
-  [[params.team.item]]
-    name = "Jasmer Singh"
-    position = "CS Essentials Leader"
-    description = ""
-    img = ""
-    facebook = "https://www.facebook.com/jasmer.gumber"
-    linkedin = ""
-
-
-  [[params.team.item]]
-    name = "Jayank Mayukh"
-    position = "ExecCouncil Member"
-    description = ""
-    img = ""
-    facebook = "https://www.facebook.com/jayankmayukh"
-    linkedin = "https://www.linkedin.com/in/jayank-mayukh-19344b129/"
-
-  [[params.team.item]]
-      name = "K Abhay Prithvi"
-      position = "StudyHigher Leader"
-      description = ""
-      img = ""
-      facebook = "https://www.facebook.com/abhayprithvi97"
-      linkedin = ""
-
-  [[params.team.item]]
-      name = "Mayank Deewan"
-      position = "Outreach Lead"
-      description = ""
-      img = ""
-      facebook = "https://www.facebook.com/mayank.deewan"
-      linkedin = ""
-
-
-  [[params.team.item]]
-      name = "Tivish Allabadi"
-      position = "ResearchGate Leader"
-      description = ""
-      img = ""
-      facebook = "https://www.facebook.com/tivish.allabadi"
-      linkedin = "https://www.linkedin.com/in/tivish-allabadi-1440b4112/"
-
-
-  [[params.team.item]]
-    name = "Umang Singhal"
-    position = "ExecCouncil Member"
-    description = ""
-    img = ""
-    facebook = "https://www.facebook.com/umang.singhal.77"
-    linkedin = "https://www.linkedin.com/in/umang-singhal-2676a713b/"
-
-
-  [[params.team.item]]
-    name = "Vipul Yadav"
-    position = "ExecCouncil Member"
-    description = ""
-    img = ""
-    facebook = "https://www.facebook.com/vipul.yadav.946179"
-    linkedin = ""
-
-  [[params.team.item]]
-    name = "Vishwatej Rao"
-    position = "Vice President"
-    description = ""
-    img = ""
-    facebook = "https://www.facebook.com/vishura0"
-    linkedin = "https://www.linkedin.com/in/vishwatej-rao-a69435141/"
 
   [[params.team.item]]
       name = "Divyanshu Sharma"
@@ -256,6 +207,32 @@ title = "ISA NSIT"
       img = ""
       facebook = "https://www.facebook.com/divyanshuSharma97"
       linkedin = "https://www.linkedin.com/in/divyanshu-sharma-50256b107/"
+
+
+  [[params.team.item]]
+      name = "Jai Sudan"
+      position = "Head of Memberships"
+      description = ""
+      img = ""
+      facebook = "https://www.facebook.com/jai.sudan"
+      linkedin = "https://www.linkedin.com/in/jai-sudan-9b0060131/"
+
+  [[params.team.item]]
+    name = "Jasmer Singh"
+    position = "Head of Education"
+    description = ""
+    img = ""
+    facebook = "https://www.facebook.com/jasmer.gumber"
+    linkedin = ""
+
+
+  [[params.team.item]]
+    name = "Vishwatej Rao"
+    position = "Vice President"
+    description = ""
+    img = ""
+    facebook = "https://www.facebook.com/vishura0"
+    linkedin = "https://www.linkedin.com/in/vishwatej-rao-a69435141/"
 
 
 
@@ -269,7 +246,7 @@ title = "ISA NSIT"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>Created from a Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a> of a theme designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> <br /> 2016 Free HTML5 Template. All Rights Reserved.</small></p>"
+  # note = "<p><small>Created from a Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a> of a theme designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> <br /> 2016 Free HTML5 Template. All Rights Reserved.</small></p>"
   github = "https://github.com/isa-nsit"
   facebook = "https://www.facebook.com/isansit/"
   linkedin = "https://in.linkedin.com/company/isa"
